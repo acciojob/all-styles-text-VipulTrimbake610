@@ -12,4 +12,8 @@
 	box-sizing:border-box;
 	border-left-color:green;
 }
+#heading{
+	font-size:20px;
+	color:white;
+}
 }
