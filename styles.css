@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.container{
+.main{
 	padding:10px;
 	font-size:20px;
 	color:white;
@@ -9,5 +9,7 @@
 	border-width:1px;
 	border-left-width:5px;
 	border-style:solid;
+	box-sizing:border-box;
 	border-left-color:green;
+}
 }
